@@ -3,8 +3,8 @@
     EXPRESS - Personnel API
 ------------------------------------------------------- */
 require('dotenv').config()
-const HOST = process.env?.HOST || '127.0.0.1'
-const PORT = process.env?.PORT || 8000
+const HOST = process.env?.HOST || 'https://personnel-api-omega.vercel.app/'
+const PORT = process.env?.PORT || 3000
 /* ------------------------------------------------------- */
 // npm i swagger-autogen
 // https://swagger-autogen.github.io/docs/

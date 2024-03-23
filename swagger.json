@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "title": "REST API",
     "description": "",
-    "termsOfService": "https://github.com/samedfft2634?tab=repositories",
+    "termsOfService": "http://www.clarusway.com",
     "contact": {
       "name": "",
       "email": "qadir@clarusway.com"
@@ -13,7 +13,7 @@
       "name": "ISC"
     }
   },
-  "host": "127.0.0.1:8000",
+  "host": "https://personnel-api-omega.vercel.app/:8000",
   "basePath": "/",
   "schemes": [
     "http",
@@ -838,7 +838,7 @@
             },
             "default": {
               "type": "number",
-              "example": 1711056619298
+              "example": 1711186159121
             }
           }
         }
